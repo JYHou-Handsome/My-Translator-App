@@ -57,8 +57,6 @@ pip install -r requirements.txt
 | keyboard | >=0.13.5 | 注册全局快捷键 |
 | pyttsx3 | >=2.90 | 文本转语音朗读 |
 | pyperclip | >=1.8.2 | 读取系统剪贴板内容 |
-| pytesseract | >=0.3.10 | OCR 文字识别（可选，截图翻译功能需要） |
-| Pillow | >=10.0.0 | 图像处理（可选，截图翻译功能需要） |
 
 ### 2. 配置有道翻译 API
 
